@@ -24,4 +24,4 @@ A **web-based simulator** for the **Preemptive Priority CPU Scheduling** algorit
 ## 📥 Installation & Usage
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/your-username/preemptive-priority-scheduler.git](https://github.com/Guheil/preemptivecalculator.git
+   git clone https://github.com/Guheil/preemptivecalculator.git
